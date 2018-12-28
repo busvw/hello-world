@@ -1,15 +1,8 @@
 # hello-world
 
 Awesome things with fire, skulls, and rock'n roll guitars.
-       {}           {}
-         \  _---_  /
-          \/     \/
-           |() ()|
-            \ + /
-           / HHH  \
-          /  \_/   \
-        {}          {}                                  
- 
+
+
 
              _
             /;)
